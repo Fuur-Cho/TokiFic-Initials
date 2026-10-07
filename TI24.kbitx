@@ -9,9 +9,10 @@
 <prop id="xHeight" value="12"/>
 <prop id="capHeight" value="15"/>
 <prop id="newGlyphWidth" value="24"/>
+<name id="0" value="Copyright (c) 2026 Fuur-Cho; TokiFic Initial Serif, Licensed under the IPA Font License Agreement v1.0."/>
 <name id="1" value="TokiFic Initials"/>
 <name id="2" value="24"/>
-<name id="3" value="BitsNPicas: Untitled: 2026"/>
+<name id="3" value="TokiFicInitials24"/>
 <name id="4" value="TokiFic Initials 24"/>
 <name id="5" value="Version 1.0"/>
 <name id="6" value="TokiFicInitials24"/>
