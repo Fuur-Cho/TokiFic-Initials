@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
+<kbits>
+<prop id="emAscent" value="14"/>
+<prop id="emDescent" value="2"/>
+<prop id="lineAscent" value="14"/>
+<prop id="lineDescent" value="2"/>
+<prop id="lineGap" value="0"/>
+<prop id="xHeight" value="8"/>
+<prop id="capHeight" value="10"/>
+<prop id="newGlyphWidth" value="8"/>
+<name id="0" value="Copyright (c) 2026 Fuur-Cho; TokiFic Initials, Licensed under the IPA Font License Agreement v1.0."/>
+<name id="1" value="TokiFic Initials"/>
+<name id="2" value="16"/>
+<name id="3" value="TokiFicInitials16"/>
+<name id="4" value="TokiFic Initials 16"/>
+<name id="5" value="Version 1.0"/>
+<name id="6" value="TokiFicInitials16"/>
+<name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software"/>
+<name id="9" value="Fuur-Cho"/>
+<name id="11" value="http://www.kreativekorp.com/software/bitsnpicas/"/>
+<g u="17" x="0" y="0" w="8" d="AAA"/>
+<g u="32" x="0" y="14" w="16" d="Dw9nQQ"/>
+<g u="65" x="0" y="15" w="16" d="Dw9WAU4BTQNMA0zCAP8CSgFCAkoBQwJIAUQCSAhGAUYCRgFHAkQBSAJDA0YEUA"/>
+<g u="66" x="0" y="15" w="16" d="Dw9RB0kCQwJIAkQCRwJEAkcCQwJIAkMBSQdIAkQCRwJFAkYCRQJGAkUCRgJEAkYIVA"/>
+<g u="67" x="0" y="15" w="16" d="Dw9WBEkCQwNFA0YBRQJHAUQDTAJNAk0CTQJOAkcBRQJHAUYCRQJIBVM"/>
+<g u="68" x="0" y="15" w="16" d="Dw9RB0kCRAJHAkYCRQJGAkUCRwJEAkcCRAJHAkQCRwJEAkcCRAJGAkUCRgJFAkQCRgdV"/>
+<g u="69" x="0" y="15" w="16" d="Dw9SCEgCRAFIAkQBSAJNAk0CQwFJBkkCQwFJAk0CTQJFAUcCRQFGCVI"/>
+<g u="70" x="0" y="15" w="16" d="Dw9SCUcCRQFHAkUBRwJNAk0CQwFJBkkCQwFJAk0CTQJNAkwEVw"/>
+<g u="71" x="0" y="15" w="16" d="Dw9WBEkCQwNFA0YBRQJHAUQCTQJNAk0CRQVDAkcCRQJGAkUCRgJGAkQDSAVT"/>
+<g u="72" x="0" y="15" w="16" d="Dw9QBEUEQwJHAkQCRwJEAkcCRAJHAkQCRwJEC0QCRwJEAkcCRAJHAkQCRwJEAkcCQwREBVA"/>
+<g u="73" x="0" y="15" w="16" d="Dw9TBksCTQJNAk0CTQJNAk0CTQJNAk0CTQJLBlQ"/>
+<g u="74" x="0" y="15" w="16" d="Dw9UBksCTQJNAk0CTQJNAk0CTQJNAkkCQgJJAkIBSwNX"/>
+<g u="75" x="0" y="15" w="16" d="Dw9RBEMERQJFAUcCRAFIAkMBSQJCAUoESwRLAkECSgJCAkkCQwJIAkQCRwJFAkUEQwVQ"/>
+<g u="76" x="0" y="15" w="16" d="Dw9SBEwCTQJNAk0CTQJNAk0CTQJNAk0CRQFHAkUBRglS"/>
+<g u="77" x="0" y="15" w="16" d="Dw9QBEYDQwNGAkQDRQNEwgD/AkQDRMIA/wJDwgD/AkQBQgFDwgD/AkQBQgJCwgD/AkQBQgJCwgD/AkMBQwLC/wBDAkIBRANDAkIBRANDAkIBRQFEAkEDRAFDBE8"/>
+<g u="78" x="0" y="15" w="16" d="Dw9RA0YDRANGAUUDRgFFwgD/AkUBRQFCAkQBRQFCAkQBRQFDAkMBRQFEAkIBRQFFAsL/AEUBRQLC/wBFAUYDRQFHAkQDRwFR"/>
+<g u="79" x="0" y="15" w="16" d="Dw9UBUkBRANFAkcCRAJHAkMCSQJCAkkCQgJJAkICSQJCAkkCQwJHAkQCRwJFA0QBSQVU"/>
+<g u="80" x="0" y="15" w="16" d="Dw9RB0kCRAJHAkUCRgJFAkYCRQJGAkUCRgJEAkcGSQJNAk0CTQJMBFg"/>
+<g u="81" x="0" y="15" w="16" d="Dw9UBEkCQwNGAkUCRgJGAkQCRwJEAkcCRAJHAkQDRgJFAkUCRwJEAUoETgRMBVA"/>
+<g u="82" x="0" y="15" w="16" d="Dw9RB0kCQwNHAkQCRwJEAkcCRAJHAkMCSAZJAkMCSAJEAkcCRAJHAkQCRwJEA0UERQNQ"/>
+<g u="83" x="0" y="15" w="16" d="Dw9VBUkCQgRGAkUBRwJFAUcDTQRMBU0DRgFGAkYBRgJGAkUCRQRDAkgGVA"/>
+<g u="84" x="0" y="15" w="16" d="Dw9QDEMBRAJEAUMBRAJEAUgCTQJNAk0CTQJNAk0CTQJNAkwEVQ"/>
+<g u="85" x="0" y="15" w="16" d="Dw9QBEYDQwJIAUQCSAFEAkgBRAJIAUQCSAFEAkgBRAJIAUQCSAFEAkgBRQJGAUYDRAJIBVQ"/>
+<g u="86" x="0" y="15" w="16" d="Dw9QBEYDQwJIAUUCRgFGAkYBRwJEAUgCRAFIA0MBSQJCAUoCQgFLA0wDTQFOAVY"/>
+<g u="87" x="0" y="15" w="16" d="Dw9PBEEGQQNBAkMCwv8AQwFCAkMCwv8AQwFDAkMCQwFEAkMCQwFEAkMCQwFEAkIDQgFGAsP/AP8Cwv8ARgLD/wD/AsL/AEYDQgNHA0MCSAFEAUkBRAFU"/>
+<g u="88" x="0" y="15" w="16" d="Dw9QBUMERQJFAUgCQwFJAkMBSgLC/wBLBEwCTQNLAUICSgFCA0gBRAJHAUYCRARDBlA"/>
+<g u="89" x="0" y="15" w="16" d="Dw9QBUQERAJGAUcCRAFIA0ICSQPC/wBLA0wDTQJNAk0CTQJNAkwEVA"/>
+<g u="90" x="0" y="15" w="16" d="Dw9RCkUBRgJGAUUCTQJMAk0CTAJNAkwCTAJNAkYBRQJHAUQLUQ"/>
+</kbits>
